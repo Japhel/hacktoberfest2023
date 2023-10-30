@@ -1,0 +1,6 @@
+let Spooky = "Ghost";
+if (Spooky === "Ghost") {
+  alert("The Ghost is Spooky");
+} else {
+  alert("The Ghost is Spooky and Fast");
+}
